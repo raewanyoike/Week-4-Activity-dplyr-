@@ -7,8 +7,8 @@ HairEyeClr<-data.frame(HairEyeColor)
 
 #See the top rows of the data
 #TASK: Write the function to see the top rows of the data
-head(HairEyeClr)
 
+head(HairEyeClr)
 
 #Install and call the package dplyr
 #TASK: Write the functions to install and call dplyr
